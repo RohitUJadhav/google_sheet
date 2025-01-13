@@ -37,12 +37,3 @@ npm run dev
 npm run build
 ```
 
-- [@swen-xiong](https://github.com/swen-xiong)
-- [@lzmch](https://github.com/lzmch)
-- [@kdevilpf](https://github.com/kdevilpf)
-- [@WJWM0316](https://github.com/WJWM0316)
-
-## License
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2020-present, mengshukeji
