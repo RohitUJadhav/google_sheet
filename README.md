@@ -44,7 +44,7 @@ Follow the [#1454](https://github.com/dream-num/Luckysheet/issues/1454) issue fo
 
 [Luckysheet Vue]: https://github.com/mengshukeji/luckysheet-vue
 [Luckysheet Vue3]: https://github.com/hjwforever/luckysheet-vue3-vite
-[Luckysheet React]: https://github.com/mengshukeji/luckysheet-react
+[Luckysheet React]: https://github.com/mengshukeji/npm install gulp -gluckysheet-react
 [Luckyexcel Node]: https://github.com/mengshukeji/Luckyexcel-node
 [Luckysheet Server]: https://github.com/mengshukeji/LuckysheetServer
 [Luckysheet Server Starter]: https://github.com/mengshukeji/LuckysheetServerStarter

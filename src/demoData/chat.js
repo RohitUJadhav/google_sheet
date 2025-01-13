@@ -8,6 +8,7 @@ export function initChat() {
 body {
     background-color: #f5f5f5;
 }
+    
 
 #chat-assistant-container {
     position: fixed;

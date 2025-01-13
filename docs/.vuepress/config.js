@@ -17,7 +17,7 @@ module.exports = {
 	},
 	themeConfig: {
 		domain: 'https://dream-num.github.io/LuckysheetDemo',
-		logo: '/img/logo.png',
+		// logo: '/img/logo.png',
 		author: 'Luckysheet',
 		// 仓库地址
 		repo: 'mengshukeji/Luckysheet',

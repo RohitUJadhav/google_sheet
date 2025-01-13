@@ -3,8 +3,8 @@
     top: 0;
     left: 0;
     display: inline-block;
-    *display: inline;
-    *zoom: 1;
+    display: inline;
+    zoom: 1;
     z-index: 9999994;
     overflow: hidden
 }
@@ -236,7 +236,7 @@
 }
 
 .sp-cf {
-    *zoom: 1
+    zoom: 1
 }
 
 @media(max-device-width:480px) {
@@ -408,8 +408,8 @@
     cursor: pointer;
     padding: 4px;
     display: inline-block;
-    *zoom: 1;
-    *display: inline;
+    zoom: 1;
+    display: inline;
     border: solid 1px #91765d;
     background: #eee;
     color: #333;
@@ -447,7 +447,7 @@
 }
 
 .sp-palette {
-    *width: 220px;
+    width: 220px;
     max-width: 220px
 }
 
